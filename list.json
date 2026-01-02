@@ -168,5 +168,10 @@
     "cmd": "tes",
     "caption": "tes",
     "image": ""
+  },
+  {
+    "cmd": "test2",
+    "caption": "test",
+    "image": ""
   }
 ]
