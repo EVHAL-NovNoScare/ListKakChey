@@ -163,5 +163,10 @@
     "cmd": "granger m7",
     "caption": "granger M7 399 💎 delay 7-8hr 60k (1slot)",
     "image": ""
+  },
+  {
+    "cmd": "tes",
+    "caption": "tes",
+    "image": ""
   }
 ]
